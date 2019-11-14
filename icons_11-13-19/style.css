@@ -1,0 +1,162 @@
+@font-face {
+  font-family: 'flight';
+  src:  url('fonts/flight.eot?u0nd5q');
+  src:  url('fonts/flight.eot?u0nd5q#iefix') format('embedded-opentype'),
+    url('fonts/flight.ttf?u0nd5q') format('truetype'),
+    url('fonts/flight.woff?u0nd5q') format('woff'),
+    url('fonts/flight.svg?u0nd5q#flight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="i-flight-"], [class*=" i-flight-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'flight' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.i-flight-download-error:before {
+  content: "\e925";
+}
+.i-flight-download_arrow1:before {
+  content: "\e926";
+}
+.i-flight-download-in-progress:before {
+  content: "\e927";
+}
+.i-flight-download-completed:before {
+  content: "\e928";
+}
+.i-flight-download-queued:before {
+  content: "\e929";
+}
+.i-flight-download-preparing:before {
+  content: "\e92a";
+}
+.i-flight-download_arrow:before {
+  content: "\e923";
+}
+.i-flight-transcode_error:before {
+  content: "\e924";
+  color: #ea2100;
+}
+.i-flight-publish-c:before {
+  content: "\e91e";
+  color: #fffd1b;
+}
+.i-flight-publish-b:before {
+  content: "\e91f";
+  color: #e70f06;
+}
+.i-flight-publish-a:before {
+  content: "\e920";
+  color: #13fd54;
+}
+.i-flight-publish-d:before {
+  content: "\e921";
+}
+.i-flight-settings:before {
+  content: "\e922";
+  color: #5e5e5e;
+}
+.i-flight-clear-x:before {
+  content: "\e91d";
+}
+.i-flight-format-4:before {
+  content: "\e918";
+}
+.i-flight-format-16:before {
+  content: "\e91a";
+}
+.i-flight-format-unknown:before {
+  content: "\e91b";
+}
+.i-flight-format-hd:before {
+  content: "\e91c";
+}
+.i-flight-cnn:before {
+  content: "\e917";
+  color: #df0000;
+}
+.i-flight-script:before {
+  content: "\e914";
+}
+.i-flight-local:before {
+  content: "\e915";
+}
+.i-flight-metadata:before {
+  content: "\e916";
+}
+.i-flight-9:before {
+  content: "\e919";
+}
+.i-flight-nav-ingest:before {
+  content: "\e90f";
+}
+.i-flight-nav-publish:before {
+  content: "\e910";
+}
+.i-flight-nav-project:before {
+  content: "\e911";
+}
+.i-flight-nav-assets:before {
+  content: "\e912";
+}
+.i-flight-search:before {
+  content: "\e913";
+}
+.i-flight-calendar:before {
+  content: "\e90e";
+}
+.i-flight-timeline-marker:before {
+  content: "\e900";
+}
+.i-flight-timeline-snap:before {
+  content: "\e90c";
+}
+.i-flight-timeline-show:before {
+  content: "\e90d";
+}
+.i-flight-timeline-unlocked:before {
+  content: "\e901";
+}
+.i-flight-volumn-quieter:before {
+  content: "\e902";
+}
+.i-flight-volumn-louder:before {
+  content: "\e903";
+}
+.i-flight-player-end:before {
+  content: "\e904";
+}
+.i-flight-player-start:before {
+  content: "\e905";
+}
+.i-flight-player-10-back:before {
+  content: "\e906";
+}
+.i-flight-player-10-forward:before {
+  content: "\e907";
+}
+.i-flight-player-play:before {
+  content: "\e908";
+}
+.i-flight-view-list:before {
+  content: "\e909";
+}
+.i-flight-view-thumbnail:before {
+  content: "\e90a";
+}
+.i-flight-view-gallery:before {
+  content: "\e90b";
+}
